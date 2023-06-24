@@ -1,0 +1,27 @@
+This repository showcases my work with programming languages, specifically C++. It contains projects that demonstrate my ability to write well-documented and readable code, 
+design functional programs that meet industry standards, and use multiple programming languages to develop secure and efficient code.
+
+The Rectangle program calculates the area and perimeter of a rectangle. It prompts the user to input the length and width of the rectangle, and then displays the calculated values. 
+This program is useful for calculating dimensions in various fields, such as construction and engineering.
+
+What did you do particularly well?
+I wrote clear and concise code that is easy to understand and follow.
+I used proper naming conventions for variables and functions to make the code more readable.
+I documented my code well, including comments that explain the purpose and functionality of each section.
+
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+I could improve the input validation to prevent the user from entering invalid values or characters.
+I could add error handling to handle unexpected situations, such as division by zero.
+I could optimize the code to make it more efficient, by minimizing the number of calculations or using more efficient algorithms.
+
+Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+The most challenging part was implementing the input validation, as it required a lot of conditional statements and error checking.
+To overcome this, I researched various validation techniques and implemented a function that checks for valid input using regular expressions.
+I am adding regular expressions to my toolkit of resources for future projects.
+
+What skills from this project will be particularly transferable to other projects or course work?
+The skills I developed in writing well-documented and readable code will be transferable to any programming language or project.
+The input validation and error handling techniques will be useful in any project that requires user input or interaction.
+
+How did you make this program maintainable, readable, and adaptable?
+I used proper indentation and spacing to make the code more readable.
